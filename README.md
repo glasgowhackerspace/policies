@@ -1,6 +1,6 @@
 # Edinburgh Hacklab Policies
 
-View these documents at https://policies.ehlab.uk/
+View these documents at https://wiki.glashack.space/doku.php?id=about:health-and-safety
 
 Structure:
 

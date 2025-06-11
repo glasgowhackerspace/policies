@@ -1,7 +1,7 @@
 Hazardous Substances
 ====================
 
-Any person who introduces, or manufactures, a source of hazard in the Hacklab
+Any person who introduces, or manufactures, a source of hazard in the Hackerspace
 has a duty towards the control of the hazard and the eventual safe disposal of
 the material. Accurate records must be maintained.
 
@@ -19,4 +19,4 @@ new hazardous substances are introduced to allow for adequate risk assessment.
 All hazardous substances must be stored and labelled appropriately.
 
 Biological or radiation hazards should not be introduced or used in the
-Hacklab.
+Hackerspace.

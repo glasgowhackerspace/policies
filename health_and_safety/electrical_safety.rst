@@ -27,7 +27,7 @@ Portable Appliance Testing (PAT)
 --------------------------------
 
 PAT testing will be carried out on a regular basis on electrical equipment in
-the Hacklab.  The schedule will be agreed by the directors based on risk
+the Hackerspace.  The schedule will be agreed by the directors based on risk
 assessment and industry guidance.
 
 PAT testing may be carried out by trained members in line with the [PAT
@@ -47,7 +47,7 @@ includes some items such as low cost phone chargers which are often imported
 with fake compliance certificates.  Home built equipment also poses a high
 risk.
 
-Counterfeit equipment should not be used in the Hacklab. It can often be
+Counterfeit equipment should not be used in the Hackerspace. It can often be
 identified by spelling mistakes or incorrect symbols on the device. Plugs may
 not be of the correct dimensions and fuses incorrectly manufactured in these
 cases.
@@ -77,7 +77,7 @@ Faulty Equipment and Equipment Repairs
 All faulty equipment should be taken out of service and labelled to prevent
 use by others. A notification should also be made on the members email list.
 
-Hacklab members should only attempt to repair equipment if competent to do so
+Hackerspace members should only attempt to repair equipment if competent to do so
 and should ensure that equipment is fully tested including a PAT test before
 returning to service.
 
