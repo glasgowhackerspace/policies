@@ -1,4 +1,4 @@
-# Edinburgh Hacklab Policies
+# Glasgow Hackerspace Policies
 
 View these documents at https://wiki.glashack.space/doku.php?id=about:health-and-safety
 
@@ -10,7 +10,7 @@ Structure:
 
 Style guide:
 
-  * This document is intended to be read by ordinary users of the Hacklab.
+  * This document is intended to be read by ordinary users of Glasgow Hackerspace.
   * Use plain English.
   * Keep it simple.
   * Policies should be proportional and realistic, or they will be ignored.
